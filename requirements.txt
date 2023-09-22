@@ -1,0 +1,15 @@
+autopep8
+cycler
+imageio
+kiwisolver
+matplotlib
+networkx
+Pillow
+pycodestyle
+pyparsing
+python-dateutil
+PyWavelets
+scikit-image
+six
+tifffile
+toml
